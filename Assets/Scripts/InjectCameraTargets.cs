@@ -15,6 +15,7 @@ public class InjectCameraTargets : MonoBehaviour
     
     public void SetTargets(List<Planet> planets)
     {
+        
         targetGroup.m_Targets = new CinemachineTargetGroup.Target[planets.Count];
         
         for(int i = 0; i<planets.Count; i++)

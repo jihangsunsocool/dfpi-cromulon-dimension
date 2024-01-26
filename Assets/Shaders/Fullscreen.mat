@@ -127,7 +127,7 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _colors: 5
+    - _colors: 16
     - _distortion: 0.8
     - _resolution: 64
     m_Colors:
