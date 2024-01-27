@@ -20,7 +20,7 @@ MonoBehaviour:
     x: 194
     y: -171
     width: 1578
-    height: 2865
+    height: 2881
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4065,7 +4065,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 862, y: 1720}
+  m_UIPosition: {x: 863, y: 1719}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4102,7 +4102,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Sphere, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"center":{"x":0.10856056213378906,"y":0.4872422218322754,"z":0.13736677169799806},"radius":0.6602911949157715}'
+      m_SerializableObject: '{"center":{"x":0.21947231888771058,"y":0.4872422218322754,"z":1.0266366004943848},"radius":0.6602911949157715}'
     m_Space: 1
   m_Property:
     name: 
